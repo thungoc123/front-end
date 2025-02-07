@@ -30,6 +30,7 @@
 - [Đặt cọc và thanh toán dịch vụ.]
 - [Feedback và đánh giá chuyên viên/dịch vụ.]
 - [Quản lý hồ sơ cá nhân: chỉnh sửa, cập nhật thông tin.]
+  ##
 👩‍🔬 Staff (Nhân viên)
 -- Xem thông tin lịch đặt của khásc
 ├── hooks/          # Custom hooks
@@ -43,7 +44,7 @@
 ├── main.tsx        # Điểm vào ứng dụng
 
 
-
+##
 🔧 Cài đặt và chạy
 Yêu cầu:
   Node.js: Phiên bản >= 16
@@ -54,7 +55,6 @@ Bước 1: Clone repository
 Bước 2: Cài đặt các dependencies
 Sử dụng npm hoặc yarn:
   npm install
-  # hoặc
   yarn
 Bước 3: Chạy ứng dụng
   npm run dev
