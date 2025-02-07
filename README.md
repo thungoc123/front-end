@@ -31,42 +31,13 @@
 - [Feedback và đánh giá chuyên viên/dịch vụ.]
 - [Quản lý hồ sơ cá nhân: chỉnh sửa, cập nhật thông tin.]
 👩‍🔬 Staff (Nhân viên)
--- Xem thông tin lịch đặt của khách hàng.
--- Check-in, check-out cho khách hàng.
-🎓 Manager (Quản lý)
--- Quản lý đánh giá, feedback từ khách hàng.
--- Quản lý hồ sơ khách hàng và lịch sử đặt dịch vụ.
--- Tạo và quản lý thông tin trung tâm, bảng giá dịch vụ.
--- Xem báo cáo thống kê (thu nhập, lượt khách, ...).
-🥼 Skin Therapist (Chuyên viên chăm sóc da)
--- Quản lý lịch làm việc cá nhân.
-- Chỉnh sửa hồ sơ cá nhân.
-💅 System Admin (Quản trị viên hệ thống)
--- Quản lý toàn bộ hệ thống: danh sách người dùng, danh mục dịch vụ, ...
--- Tạo tài khoản nhân viên (tên, số điện thoại, email, mật khẩu).
-
----
-
-## 🛠️ Công nghệ sử dụng
-
-- **Vite**: Khởi chạy ứng dụng nhanh chóng.
-- **React (TypeScript)**: Tận dụng tính năng của TypeScript cho code an toàn và dễ bảo trì.
-- **Zustand**: Đơn giản, không rườm rà để quản lý trạng thái toàn cục.
-- **ShadCN UI**: Xây dựng UI với các component tối ưu hóa cho TailwindCSS.
-- **TailwindCSS**: CSS Utility-first framework.
-
----
-
-## 📂 Cấu trúc dự án
-
-```plaintext
-src/
-├── assets/         # Tài nguyên tĩnh (hình ảnh, fonts, ...)
-├── components/     # Các component React
+-- Xem thông tin lịch đặt của khásc
 ├── hooks/          # Custom hooks
+├── components/     # Các components của ShadCN UI
+├── component/      # Các component của ứng dụng ( Tuân theo nguyên tắc Antomic design ) 
 ├── store/          # Quản lý trạng thái với Zustand
 ├── styles/         # Tệp cấu hình và CSS
-├── utils/          # Hàm tiện ích
+├── libs/           # Hàm tiện ích
 ├── services/       # Xu ly nhung API
 ├── App.tsx         # Thành phần chính của ứng dụng
 ├── main.tsx        # Điểm vào ứng dụng
