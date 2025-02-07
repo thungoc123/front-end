@@ -18,12 +18,12 @@
 
 ## 🚀 Tính năng ( Kham khảo file document ) 
 
-✨ Tính năng chính
-👰‍♀️ Guest (Khách truy cập)
+**✨ Tính năng chính**<br>
+**👰‍♀️ Guest (Khách truy cập)**
  - [Xem thông tin trung tâm: tên, địa chỉ, giới thiệu, bảng giá, khung giờ làm việc.]
  - [Xem thông tin dịch vụ: giới thiệu, biểu phí, sơ đồ trị liệu, đánh giá.]
  - [khảo sát để được đề xuất dịch vụ chăm sóc da phù hợp.] <br>
-💆‍♀️ Customer (Khách hàng) <br>
+**💆‍♀️Customer (Khách hàng)** <br>
 - [Làm trắc nghiệm để nhận đề xuất dịch vụ phù hợp.] <br>
 - [Đặt lịch dịch vụ: chọn chuyên viên và khung giờ làm việc.]<br>
 - [Đổi lịch hoặc hủy lịch đặt.]<br>
@@ -31,7 +31,7 @@
 - [Feedback và đánh giá chuyên viên/dịch vụ.]<br>
 - [Quản lý hồ sơ cá nhân: chỉnh sửa, cập nhật thông tin.]<br>
   ##
-👩‍🔬 Staff (Nhân viên) <br>
+**👩‍🔬 Staff (Nhân viên)** <br>
 -- Xem thông tin lịch đặt của khác <br>
 -- Hỗ trợ check-in check-out <br>
 
@@ -48,17 +48,17 @@
 
 
 ## 🔧 Cài đặt và chạy
-Yêu cầu:<br>
+**Yêu cầu**:<br>
   Node.js: Phiên bản >= 16<br>
   NPM hoặc Yarn<br>
-Bước 1: Clone repository<br>
+**Bước 1: Clone repository**<br>
   git clone https://github.com/<tên-tài-khoản>/<tên-dự-án>.git<br>
   cd <tên-dự-án><br>
-Bước 2: Cài đặt các dependencies<br>
+**Bước 2: Cài đặt các dependencies**<br>
 Sử dụng npm hoặc yarn:<br>
   npm install<br>
   yarn<br>
-Bước 3: Chạy ứng dụng<br>
+**Bước 3: Chạy ứng dụng**<br>
   npm run dev<br> 
   Hoặc <br>
   yarn dev
