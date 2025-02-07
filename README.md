@@ -17,13 +17,12 @@
 ---
 
 ## 🚀 Tính năng ( Kham khảo file document ) 
-
 **✨ Tính năng chính**<br>
 **👰‍♀️ Guest (Khách truy cập)**
  - [Xem thông tin trung tâm: tên, địa chỉ, giới thiệu, bảng giá, khung giờ làm việc.]
  - [Xem thông tin dịch vụ: giới thiệu, biểu phí, sơ đồ trị liệu, đánh giá.]
  - [khảo sát để được đề xuất dịch vụ chăm sóc da phù hợp.] <br>
-**💆‍♀️Customer (Khách hàng)** <br>
+ **💆‍♀️Customer (Khách hàng)** <br>
 - [Làm trắc nghiệm để nhận đề xuất dịch vụ phù hợp.] <br>
 - [Đặt lịch dịch vụ: chọn chuyên viên và khung giờ làm việc.]<br>
 - [Đổi lịch hoặc hủy lịch đặt.]<br>
