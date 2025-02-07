@@ -31,8 +31,8 @@
 - [Feedback và đánh giá chuyên viên/dịch vụ.]
 - [Quản lý hồ sơ cá nhân: chỉnh sửa, cập nhật thông tin.]
   ##
-👩‍🔬 Staff (Nhân viên)
--- Xem thông tin lịch đặt của khásc
+👩‍🔬 Staff (Nhân viên) <br>
+-- Xem thông tin lịch đặt của khásc 
 ├── hooks/          # Custom hooks
 ├── components/     # Các components của ShadCN UI
 ├── component/      # Các component của ứng dụng ( Tuân theo nguyên tắc Antomic design ) 
